@@ -20,7 +20,7 @@
             <configuration>
               <transformers>
                 <transformer>
-                  <mainClass>com.viu.giin.App</mainClass>
+                  <mainClass>com.viu.giin.Operators</mainClass>
                 </transformer>
               </transformers>
             </configuration>
