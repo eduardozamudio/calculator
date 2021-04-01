@@ -1,13 +1,13 @@
-package test.java;
+package com.viu.giin;
 
 import static org.junit.Assert.*;
 
 import org.junit.Before;
 import org.junit.Test;
 
-import calculator.Operators;
+//import calculator.Operators;
 
-public class OperatorsTest_sumIntegers {
+public class OperatorsTest_sumIntegers_Test {
 	
 	private Operators operator;
 	
